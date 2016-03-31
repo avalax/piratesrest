@@ -1,3 +1,5 @@
+package de.avalax.pirates;
+
 public class GameResult {
     private String token;
     private String winner;
